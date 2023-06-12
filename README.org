@@ -1,0 +1,10 @@
+* colleen
+
+Common Lisp IRC bot with a modular framework.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Shinmera/colleen.git   |
+| commit  | 02d2e5d  |
+| systems | colleen |
+|---------+-------------------------------------------|
+
